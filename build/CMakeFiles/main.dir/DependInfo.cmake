@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/root/autodl-tmp/Coding/C++/Sort/P1781.cpp" "CMakeFiles/main.dir/Sort/P1781.cpp.o" "gcc" "CMakeFiles/main.dir/Sort/P1781.cpp.o.d"
+  "/root/autodl-tmp/Coding/C++/Sort/P1012.cpp" "CMakeFiles/main.dir/Sort/P1012.cpp.o" "gcc" "CMakeFiles/main.dir/Sort/P1012.cpp.o.d"
   )
 
 # Targets to which this target links.

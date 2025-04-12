@@ -129,29 +129,29 @@ main/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
-Sort/P1781.o: Sort/P1781.cpp.o
-.PHONY : Sort/P1781.o
+Sort/P1012.o: Sort/P1012.cpp.o
+.PHONY : Sort/P1012.o
 
 # target to build an object file
-Sort/P1781.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Sort/P1781.cpp.o
-.PHONY : Sort/P1781.cpp.o
+Sort/P1012.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Sort/P1012.cpp.o
+.PHONY : Sort/P1012.cpp.o
 
-Sort/P1781.i: Sort/P1781.cpp.i
-.PHONY : Sort/P1781.i
+Sort/P1012.i: Sort/P1012.cpp.i
+.PHONY : Sort/P1012.i
 
 # target to preprocess a source file
-Sort/P1781.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Sort/P1781.cpp.i
-.PHONY : Sort/P1781.cpp.i
+Sort/P1012.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Sort/P1012.cpp.i
+.PHONY : Sort/P1012.cpp.i
 
-Sort/P1781.s: Sort/P1781.cpp.s
-.PHONY : Sort/P1781.s
+Sort/P1012.s: Sort/P1012.cpp.s
+.PHONY : Sort/P1012.s
 
 # target to generate assembly for a file
-Sort/P1781.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Sort/P1781.cpp.s
-.PHONY : Sort/P1781.cpp.s
+Sort/P1012.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/Sort/P1012.cpp.s
+.PHONY : Sort/P1012.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... main"
-	@echo "... Sort/P1781.o"
-	@echo "... Sort/P1781.i"
-	@echo "... Sort/P1781.s"
+	@echo "... Sort/P1012.o"
+	@echo "... Sort/P1012.i"
+	@echo "... Sort/P1012.s"
 .PHONY : help
 
 
