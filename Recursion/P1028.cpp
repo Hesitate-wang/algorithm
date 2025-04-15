@@ -4,6 +4,7 @@
 using namespace std;
 
 int main(){
+    //合法数列数量计算
     int n;
     cin >> n;
     vector<long long>  vec(n+1);
